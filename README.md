@@ -1,9 +1,5 @@
 # README
 
-# LIVE LINK
-
-https://half-baked-api.herokuapp.com/
-
 Things you may want to cover:
 
 * Ruby version
